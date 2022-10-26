@@ -5,7 +5,7 @@ export default function WeatherPage() {
         <div>
             <p>Hot weather</p>
             <p> New feature</p>
-            <h1>Cold weather</h1>
+            <h1>Less hot weather</h1>
         </div>
     )
 
